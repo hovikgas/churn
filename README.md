@@ -1,5 +1,5 @@
 # Survival Analysis: Intuition & Implementation in Python
-### Quick Implementation in python
+### Quick Implementation in Python
 
 There is a statistical technique which can answer business questions as follows:
 - How long will a particular customer remain with your business? In other words, after how much time this customer will churn?
